@@ -1,5 +1,7 @@
 # vue-ts-skelton
 
+![setup.png](setup.png "setup")
+
 ## Project setup
 ```
 yarn install
